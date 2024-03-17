@@ -1,0 +1,1 @@
+# 2DCNN-for-Tsunami-Intensity-Measure-prediction
